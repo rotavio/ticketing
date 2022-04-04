@@ -16,8 +16,8 @@ const LandingPage = ({ currentUser, tickets }) => {
     );
   });
 
-  console.log(currentUser);
-  console.log(tickets);
+  // console.log(currentUser);
+  // console.log(tickets);
   return (
     <div>
       <h1>Tickets</h1>
